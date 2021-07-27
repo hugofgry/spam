@@ -1,0 +1,15 @@
+Pandas 
+Streamlit
+dnspython
+Psycopg2
+Requests
+Plotly
+Matplotlib
+Sklearn
+Seaborn
+numpy
+Nltk 
+
+
+
+
